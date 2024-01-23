@@ -3,17 +3,17 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class hacktivist:
+class main:
     def __init__(self):
         self.name = "Stumpy"
-        self.role = "Cyber Penetration Tester"
+        self.role = "CyberSec Student"
         self.language_spoken = "en_US"]
         self.current_project = "IcePick - A hacking swiss-army knife"
 
     def usr(self):
-        print("Hello! I am a cybersecurity student that focuses on the cyber world of pentesting!")
+        print(self.name + " is the coolest cat in the neighborhood!")
 
-me = hacktivist()
+me = main()
 me.usr()
 ```
 
