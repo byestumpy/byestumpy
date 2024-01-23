@@ -18,7 +18,11 @@ me.usr()
 ```
 
 ### Skills👨‍💻
-- Python, JavaScript, HTML, CSS
+- Python, Java, JavaScript, HTML, CSS
+
+### Certifications
+- CompTIA Security+
+- CompTIA A+
 
 ### Projects👁️
 - [IcePick](https://github.com/byestumpy/IcePick)
